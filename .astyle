@@ -1,0 +1,3 @@
+--style=kr
+--convert-tabs          # convert tabs to spaces
+--indent=spaces=4       # indent is set to 4 spaces
